@@ -12,7 +12,7 @@ color.label.sort=gray20
 color.alternate=on gray1
 color.header=rgb220
 color.footnote=rgb220
-# bold dont't play with rgb500 :/
+# bold don't play with rgb500 :/
 color.warning=bold red
 color.error=rgb500
 color.debug=rgb555
